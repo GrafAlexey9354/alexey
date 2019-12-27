@@ -1,5 +1,6 @@
 <?php
 namespace Alex;
+use \DataTime;
 class Log extends \core\LogAbstract implements \core\LogInterface
 {
 	public static function log($str) 
