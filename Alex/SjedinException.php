@@ -1,5 +1,5 @@
 <?php
 namespace Alex;
-class SjedinException extends \RuntimeException
+class SjedinException extends RuntimeException
 {
 }
